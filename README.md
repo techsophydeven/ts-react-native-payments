@@ -8,16 +8,6 @@ Common 3rd party payments for react native
 npm install react-native-payments-3p
 ```
 
-## Usage
-
-```js
-import { multiply } from 'react-native-payments-3p';
-
-// ...
-
-const result = await multiply(3, 7);
-```
-
 ## Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.

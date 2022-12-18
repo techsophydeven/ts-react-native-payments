@@ -1,11 +1,11 @@
-# react-native-payments-3p
+# ts-react-native-payments
 
 Common 3rd party payments for react native
 
 ## Installation
 
 ```sh
-npm install react-native-payments-3p
+npm install ts-react-native-payments
 ```
 
 ## Contributing

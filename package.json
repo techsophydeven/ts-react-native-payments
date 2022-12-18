@@ -1,5 +1,5 @@
 {
-    "name": "react-native-payments-3p",
+    "name": "ts-react-native-payments",
     "version": "0.1.4",
     "description": "test",
     "main": "lib/commonjs/index",
@@ -41,13 +41,13 @@
         "ios",
         "android"
     ],
-    "repository": "https://github.com/wadhwadeven/react-native-payments-3p",
-    "author": "Deven Wadhwa <wadhwadeven@gmail.com> (https://github.com/wadhwadeven)",
+    "repository": "https://github.com/techsophydeven/ts-react-native-payments",
+    "author": "Techsophy <deven.w@techsophy.com> (https://github.com/techsophydeven)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/wadhwadeven/react-native-payments-3p/issues"
+        "url": "https://github.com/techsophydeven/ts-react-native-payments/issues"
     },
-    "homepage": "https://github.com/wadhwadeven/react-native-payments-3p#readme",
+    "homepage": "https://github.com/techsophydeven/ts-react-native-payments#readme",
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },
